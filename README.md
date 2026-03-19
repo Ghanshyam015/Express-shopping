@@ -2,8 +2,6 @@
 
 A complete, production-ready e-commerce solution built with modern technologies including React.js, Node.js, Express, MongoDB, Redux Toolkit, Tailwind CSS, and Stripe payment integration.
 
-![Express Shoping Shopping Platform](./public/Screenshot 2026-03-19 182344.png)
-
 ## 🌟 Features
 
 ### Customer Features
